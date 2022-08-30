@@ -2,7 +2,7 @@
 
 This shield is used to get French energy meter called Teleinfo data with WisDuo LoRaWAN RAK3272 SIP Breakout board:
 
-<img src="https://github.com/hallard/RAK3272-TIC/raw/master/pictures/RAK3272-SIP.png" alt="Top" width="40%" height="40%">&nbsp;
+<img src="https://github.com/hallard/RAK3272-TIC/raw/main/pictures/RAK3272-SIP.png" alt="Top" width="40%" height="40%">&nbsp;
 
 
 
@@ -51,16 +51,16 @@ To enable reading TIC you need:
 
 # Schematics
 
-<img src="https://github.com/hallard/RAK3272-TIC/raw/master/pictures/RAK3272-TIC-sch.png">
+<img src="https://github.com/hallard/RAK3272-TIC/raw/main/pictures/RAK3272-TIC-sch.png">
 
 # Assembled Boards (V1.0)
 https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3272-SiP-Breakout-Board/Datasheet/#overview
-<img src="https://github.com/hallard/RAK3272-TIC/raw/master/pictures/RAK3272-TIC-top.png" alt="Top" width="40%" height="40%">&nbsp;
-<img src="https://github.com/hallard/RAK3272-TIC/raw/master/pictures/RAK3272-TIC-bot.png" alt="Bottom" width="40%" height="40%">
+<img src="https://github.com/hallard/RAK3272-TIC/raw/main/pictures/RAK3272-TIC-top.png" alt="Top" width="40%" height="40%">&nbsp;
+<img src="https://github.com/hallard/RAK3272-TIC/raw/main/pictures/RAK3272-TIC-bot.png" alt="Bottom" width="40%" height="40%">
 
 # Shield Plugged on RAK3272 SIP Breakout
 
-<img src="https://github.com/hallard/RAK3272-TIC/raw/master/pictures/RAK3272-TIC-assembled.png" width="40%" height="40%" alt="RAK3272 Teleinfo Assembled Top">&nbsp;
+<img src="https://github.com/hallard/RAK3272-TIC/raw/main/pictures/RAK3272-TIC-assembled.png" width="40%" height="40%" alt="RAK3272 Teleinfo Assembled Top">&nbsp;
 
 # Firmware 
 
