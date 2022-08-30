@@ -4,8 +4,7 @@ This shield is used to get French energy meter called Teleinfo data with WisDuo 
 
 <img src="https://github.com/hallard/RAK3272-TIC/raw/main/pictures/RAK3272-SIP.png" alt="Top" width="40%" height="40%">&nbsp;
 
-
-
+# Detailed Description
 
 ** V1.0 **
 
@@ -28,8 +27,7 @@ So in V1.0 version of my shield you will need to bend headers of RAK3272 and shi
 
 Anyway, if you're designing shield for RAK3272 don't take xBee spacing format for external headers, it won't fit 
 
-
-# Detailed Description
+# Pinout
 
 Look at the schematics for more informations, easy to understand. Wiring on the RAK3272 Teleinfo shield is as follow:
 
@@ -53,12 +51,14 @@ To enable reading TIC you need:
 
 <img src="https://github.com/hallard/RAK3272-TIC/raw/main/pictures/RAK3272-TIC-sch.png">
 
-# Assembled Boards (V1.0)
-https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3272-SiP-Breakout-Board/Datasheet/#overview
-<img src="https://github.com/hallard/RAK3272-TIC/raw/main/pictures/RAK3272-TIC-top.png" alt="Top" width="40%" height="40%">&nbsp;
+# Boards
+
+## Assembled (V1.0)
+
+<img src="https://github.com/hallard/RAK3272-TIC/raw/main/pictures/RAK3272-TIC-top.png" alt="Top" width="40%" height="40%">&nbsp;&nbsp;
 <img src="https://github.com/hallard/RAK3272-TIC/raw/main/pictures/RAK3272-TIC-bot.png" alt="Bottom" width="40%" height="40%">
 
-# Shield Plugged on RAK3272 SIP Breakout
+## Shield Plugged on RAK3272 SIP Breakout
 
 <img src="https://github.com/hallard/RAK3272-TIC/raw/main/pictures/RAK3272-TIC-assembled.png" width="40%" height="40%" alt="RAK3272 Teleinfo Assembled Top">&nbsp;
 
