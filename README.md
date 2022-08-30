@@ -42,13 +42,13 @@ Look at the schematics for more informations, easy to understand. Wiring on the 
 | I2C SDA      | I2C2_SDA  |  PA11   |
 | I2C SDL      | I2C2_SCL  |  PA12   |
 
-:warning: Button is boot0 button, to avoid adding one more button for user, I wired Boot0 to PA4 to we can read button state, but since it's boot0 it has pulldown resistor and it is active High.
+:warning: Button is `boot0` button, to avoid adding one more button for user, I wired Boot0 to `PA4` to we can read button state, but since it's `boot0` it has pulldown resistor and it is active High.
 
-To enable reading TIC you need:
+To enable reading Téléinfo you need:
 
-- Drive High ping PA5 (mandatory)
-- Drive High ping PA8 (to eable TIC Led to blink on data reception on Serial)
-- Read Teleinfo on UART1_RX (PB7)
+- Drive High ping `PA5` (mandatory)
+- Drive High ping `PA8` (to eable TIC Led to blink on data reception on Serial)
+- Read Teleinfo on `UART1_RX` (`PB7`)
 
 # Schematics
 
@@ -89,7 +89,7 @@ If you want to do commercial stuff with this project, please contact [CH2i compa
 
 # Lazy building your own? 
 
-You can order this shield fully assembled with some extra on tindie (soon)
+You can order this shield fully assembled with some extra on tindie (soon, may be)
 
 <a href="https://www.tindie.com/products/25467/"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
 
