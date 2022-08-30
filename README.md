@@ -38,6 +38,7 @@ Look at the schematics for more informations, easy to understand. Wiring on the 
 | Led TIC      |   PA8     |   PA8   | 
 | Led Red      | SPI1_MISO |   PA6   | 
 | Led Green    | SPI1_MOSI |   PA7   | 
+| Button       | SPI1_NSS  |   PA4   | 
 | I2C SDA      | I2C2_SDA  |  PA11   |
 | I2C SDL      | I2C2_SCL  |  PA12   |
 
