@@ -42,6 +42,8 @@ Look at the schematics for more informations, easy to understand. Wiring on the 
 | I2C SDA      | I2C2_SDA  |  PA11   |
 | I2C SDL      | I2C2_SCL  |  PA12   |
 
+:warning: Button is boot0 button, to avoid adding one more button for user, I wired Boot0 to PA4 to we can read button state, but since it's boot0 it has pulldown resistor and it is active High.
+
 To enable reading TIC you need:
 
 - Drive High ping PA5 (mandatory)
