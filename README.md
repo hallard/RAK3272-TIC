@@ -6,7 +6,7 @@ This shield is used to get French energy meter called Teleinfo data with WisDuo 
 
 # Detailed Description
 
-** V1.0 **
+**V1.0**
 
 - On Board 3.3V regulator used when powering thru batteries (Vin > 3.6V)
 - Low Power Mode option driving some GPIO to disable TIC
